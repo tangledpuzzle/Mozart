@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=400px height=210px src="https://github.com/tangledpuzzle/mozart/blob/main/logo.svg" alt="Mozart logo"></a>
-</p>
-
 <p align="center"> :notes: Convert sheet music to a machine-readable version.
     <br> 
 </p>
